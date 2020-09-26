@@ -1,8 +1,11 @@
-testcaseD ¬OÃD¥Øµ¹ªº
+ICCAD 2019 CAD Contest Problem D
+Logic Synthesis Using Programmable Logic Gates
 
-abc_method : ABC¾ã­Ó®M¥ó¤Ó¤j¡A§Ú¥u¨ú¤F§Ú¦Û¤v¥Îªº¸ê®Æ§¨examples¡Acompile¤èªk¦preport©Ò¥Ü¡Aout1.v¬O§Ú¥Îabc¹ïtest1.v±o¥Xªºµ²ªG¡A
-run.cpp¬O§Ú¥Î¨ÓTransfer to Gate 1, 2, 3 ªºc++ÀÉ¡Aout_1.v¬O¹ïout1.v±o¥Xªºµ²ªG
-¦]¬°§ÚÁÙ¨S³]­p¿é¤J«ü¥O¡A©Ò¥H­n¦Û¤v¦bABCªºcompile¤¶­±¿é¤J·Q­nmapªºtest.v¡A·Q­n¿é¥Xªºout.v
-run.cpp«h¬O­n¦Û¤v¦bifstream¿é¤J·Q­nÂà´«ªºout.v¡A·Q­n¿é¥Xªºout_.v
+testcaseD æ˜¯é¡Œç›®çµ¦çš„
 
-c++method : main.cpp ©|¥¼§¹¦¨ Logic_Gates.cpp ©M Logic_Gates.h ©|¥¼ debug ¹L
+abc_method : ABCæ•´å€‹å¥—ä»¶å¤ªå¤§ï¼Œæˆ‘åªå–äº†æˆ‘è‡ªå·±ç”¨çš„è³‡æ–™å¤¾examplesï¼Œcompileæ–¹æ³•å¦‚reportæ‰€ç¤ºï¼Œout1.væ˜¯æˆ‘ç”¨abcå°test1.vå¾—å‡ºçš„çµæœï¼Œ
+run.cppæ˜¯æˆ‘ç”¨ä¾†Transfer to Gate 1, 2, 3 çš„c++æª”ï¼Œout_1.væ˜¯å°out1.vå¾—å‡ºçš„çµæœ
+å› ç‚ºæˆ‘é‚„æ²’è¨­è¨ˆè¼¸å…¥æŒ‡ä»¤ï¼Œæ‰€ä»¥è¦è‡ªå·±åœ¨ABCçš„compileä»‹é¢è¼¸å…¥æƒ³è¦mapçš„test.vï¼Œæƒ³è¦è¼¸å‡ºçš„out.v
+run.cppå‰‡æ˜¯è¦è‡ªå·±åœ¨ifstreamè¼¸å…¥æƒ³è¦è½‰æ›çš„out.vï¼Œæƒ³è¦è¼¸å‡ºçš„out_.v
+
+c++method : main.cpp å°šæœªå®Œæˆ Logic_Gates.cpp å’Œ Logic_Gates.h å°šæœª debug é
