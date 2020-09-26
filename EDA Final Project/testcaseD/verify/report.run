@@ -1,0 +1,14 @@
+
+set search_path {.}
+set link_path {*}
+set link_library  cadcontest.db
+set target_library cadcontest.db
+read_verilog  test1out.v
+current_design test1
+link
+
+report_area
+report_timing
+
+quit
+
